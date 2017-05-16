@@ -10,6 +10,7 @@
 		"AngularJS",
 		"AngularJS Snippets",
 		"ayu",
+		"Blade Snippets",
 		"BracketHighlighter",
 		"Color Highlighter",
 		"CSSLint",
@@ -19,6 +20,7 @@
 		"JavaScript Completions",
 		"JavaScript Snippets",
 		"jQuery",
+		"JSX",
 		"Laravel 5 Artisan",
 		"Laravel 5 Snippets",
 		"Laravel Blade Highlighter",
@@ -37,8 +39,10 @@
 		"ReactJS Snippets",
 		"RecentActiveFiles",
 		"SideBarEnhancements",
+		"Simple JSX",
 		"SublimeCodeIntel",
 		"SublimeLinter",
+		"SublimeLinter-jsxhint",
 		"Trimmer"
 	]
 }
