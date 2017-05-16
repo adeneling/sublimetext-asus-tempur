@@ -1,0 +1,21 @@
+{
+	"color_scheme": "Packages/Agila Theme/Agila Neon Monocyanide.tmTheme",
+	"enable_tab_scrolling": false,
+	"font_size": 8,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"theme": "Agila Neon.sublime-theme",
+	"theme_agila_active_tab_entry_lightblue": true,
+	"theme_agila_compact_tab": true,
+	"theme_agila_horizontal_scrollbar_yellow": true,
+	"theme_agila_modified_tab_marker_yellow": true,
+	"theme_agila_sidebar_font_xsmall": true,
+	"theme_agila_sidebar_heading_lightblue": true,
+	"theme_agila_sidebar_light_icons": true,
+	"theme_agila_sidebar_mini": true,
+	"theme_agila_sidebar_plus_minus": true,
+	"theme_agila_sidebar_selected_entry_yellow": true,
+	"theme_agila_vertical_scrollbar_yellow": true
+}

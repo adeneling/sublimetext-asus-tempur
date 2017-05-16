@@ -1,0 +1,44 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Agila Theme",
+		"Angular CLI",
+		"AngularJS",
+		"AngularJS Snippets",
+		"ayu",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"CSSLint",
+		"DocBlockr",
+		"Emmet",
+		"JavaScript & NodeJS Snippets",
+		"JavaScript Completions",
+		"JavaScript Snippets",
+		"jQuery",
+		"Laravel 5 Artisan",
+		"Laravel 5 Snippets",
+		"Laravel Blade Highlighter",
+		"Laravel Forms Bootstrap Snippets",
+		"Laravel Helper Completions",
+		"LaravelCollective HTML Form Snippets",
+		"Package Control",
+		"React and React Router Snippets",
+		"React Coffee Snippets",
+		"React Development Snippets",
+		"React ES6 Snippets",
+		"React IDE",
+		"React Templates",
+		"react-native-snippets",
+		"ReactJS",
+		"ReactJS Snippets",
+		"RecentActiveFiles",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"Trimmer"
+	]
+}
